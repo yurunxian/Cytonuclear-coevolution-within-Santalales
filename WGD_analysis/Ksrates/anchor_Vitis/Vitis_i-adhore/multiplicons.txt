@@ -1,0 +1,450 @@
+id	genome_x	list_x	parent	genome_y	list_y	level	number_of_anchorpoints	profile_length	begin_x	end_x	begin_y	end_y	is_redundant
+1	Vitis	chr7		Vitis	chr18	2	31	222	2049	2272	1524	1681	0
+2			1	Vitis	chr3	3	11	82	60	135	1286	1345	0
+3			1	Vitis	chr3	3	9	48	163	193	1205	1241	0
+4			1	Vitis	chr2	3	3	50	153	196	68	117	0
+5	Vitis	chr6		Vitis	chr8	2	28	248	892	1104	1614	1800	0
+6			5	Vitis	chr13	3	13	82	0	71	555	611	0
+7			5	Vitis	chr13	3	8	31	203	232	716	729	0
+8	Vitis	chr10		Vitis	chr12	2	25	272	359	601	294	522	0
+9			8	Vitis	chr19	3	16	146	13	134	269	394	0
+10	Vitis	chr11		Vitis	chr4	2	25	282	147	413	180	395	0
+11			10	Vitis	chr9	3	13	91	146	228	328	375	0
+12			10	Vitis	chr9	3	8	60	235	278	408	453	0
+13			10	Vitis	chr9	3	7	35	106	126	288	319	0
+14			10	Vitis	chr9	3	3	22	199	218	313	334	0
+15			10	Vitis	chrUn	3	3	32	106	137	3752	3775	0
+16	Vitis	chr13		Vitis	chr6	2	24	229	433	637	776	970	0
+17			16	Vitis	chr8	3	9	70	47	107	1452	1500	0
+18			16	Vitis	chr13	3	3	23	135	157	1339	1343	0
+19	Vitis	chr2		Vitis	chr15	2	21	208	150	322	1564	1741	0
+20	Vitis	chr5		Vitis	chr7	2	21	186	170	313	707	867	0
+21			20	Vitis	chr14	3	7	57	5	55	238	271	0
+22			20	Vitis	chr14	3	4	10	177	185	363	368	0
+23	Vitis	chr13		Vitis	chr6	2	18	156	122	227	1337	1479	0
+24			23	Vitis	chr8	3	19	168	2	144	585	709	0
+25	Vitis	chr17		Vitis	chr1	2	17	162	1048	1174	1809	1950	0
+26			25	Vitis	chr14	3	5	21	97	117	3320	3335	0
+27			25	Vitis	chr14	3	5	28	0	27	3217	3242	0
+28			25	Vitis	chr14	3	4	21	42	54	3288	3308	0
+29			25	Vitis	chr15	3	3	45	42	67	960	984	0
+30	Vitis	chr6		Vitis	chr8	2	17	181	2705	2823	2122	2281	0
+31	Vitis	chr4		Vitis	chr18	2	16	107	2023	2105	1992	2086	0
+32			31	Vitis	chr3	3	6	40	17	56	1093	1099	0
+33	Vitis	chr6		Vitis	chr8	2	15	142	1509	1610	794	902	0
+34			33	Vitis	chr13	3	11	86	60	132	316	373	0
+35			33	Vitis	chr13	3	4	13	56	68	313	325	0
+36	Vitis	chr4		Vitis	chr18	2	15	124	2294	2390	2195	2308	0
+37			36	Vitis	chr3	3	7	65	48	108	5	47	0
+38			36	Vitis	chr3	3	3	27	1	23	736	750	0
+39	Vitis	chr7		Vitis	chr18	2	15	143	2329	2422	1679	1827	0
+40			39	Vitis	chr3	3	4	20	13	31	820	827	0
+41	Vitis	chr13		Vitis	chr8	2	14	130	817	950	1867	1959	0
+42			41	Vitis	chr6	3	7	35	53	78	1166	1187	0
+43	Vitis	chr13		Vitis	chr6	2	14	107	674	766	1027	1136	0
+44	Vitis	chr6		Vitis	chr8	2	13	101	1376	1465	614	709	-1
+45	Vitis	chr6		Vitis	chr8	2	13	139	746	860	1457	1575	0
+46			45	Vitis	chrUn	3	3	25	114	131	1914	1941	0
+47	Vitis	chr5		Vitis	chr7	2	12	72	1102	1171	98	165	0
+48			47	Vitis	chr14	3	4	24	47	64	1006	1027	0
+49	Vitis	chr6		Vitis	chr8	2	12	109	2531	2610	2382	2462	0
+50			49	Vitis	chr13	3	8	45	61	97	1502	1537	0
+51			49	Vitis	chr13	3	3	26	0	24	1455	1473	0
+52	Vitis	chr7		Vitis	chr14	2	12	110	973	1056	66	158	0
+53			52	Vitis	chr5	3	4	20	5	21	26	42	0
+54			52	Vitis	chrUn	3	3	23	14	31	3416	3438	0
+55	Vitis	chr17		Vitis	chr14	2	12	107	1596	1689	3068	3148	0
+56			55	Vitis	chr1	3	11	77	1	50	1602	1674	0
+57	Vitis	chr3		Vitis	chr18	2	12	80	1288	1367	1547	1601	-1
+58	Vitis	chr1		Vitis	chr14	2	12	129	630	719	1772	1886	0
+59			58	Vitis	chr17	3	11	101	40	127	641	706	0
+60			58	Vitis	chr17	3	4	25	3	27	745	767	0
+61	Vitis	chr13		Vitis	chr6	2	11	71	313	373	1556	1606	-1
+62	Vitis	chr9		Vitis	chr11	2	11	91	593	667	567	644	0
+63			62	Vitis	chr4	3	7	44	51	90	4	28	0
+64	Vitis	chr9		Vitis	chr11	2	11	81	328	375	283	358	-1
+65	Vitis	chr6		Vitis	chr8	2	11	101	1176	1246	1913	2003	0
+66	Vitis	chr3		Vitis	chr18	2	10	71	276	336	2487	2549	0
+67			66	Vitis	chr4	3	14	96	0	62	2496	2573	0
+68	Vitis	chr9		Vitis	chr11	2	10	88	143	213	91	162	0
+69	Vitis	chr13		Vitis	chr8	2	10	79	1147	1214	1272	1319	0
+70			69	Vitis	chr6	3	8	41	3	33	579	609	0
+71			69	Vitis	chr6	3	6	55	44	78	498	545	0
+72	Vitis	chr3		Vitis	chr18	2	10	112	84	191	2309	2402	0
+73			72	Vitis	chr4	3	15	110	9	109	2394	2466	0
+74	Vitis	chr9		Vitis	chr4	2	10	101	932	1024	895	981	0
+75			74	Vitis	chr11	3	8	58	46	97	1004	1033	0
+76	Vitis	chr13		Vitis	chr6	2	10	117	1076	1180	579	683	0
+77			76	Vitis	chr8	3	9	50	25	48	1320	1368	0
+78	Vitis	chr9		Vitis	chr11	2	10	133	990	1110	1005	1085	0
+79	Vitis	chr3		Vitis	chr18	2	9	58	736	783	2168	2220	0
+80			79	Vitis	chr4	3	7	35	21	44	2237	2261	0
+81	Vitis	chr13		Vitis	chr8	2	9	68	304	372	830	879	-1
+82	Vitis	chr1		Vitis	chr14	2	9	73	1858	1918	3287	3335	0
+83	Vitis	chr17		Vitis	chr14	2	9	73	208	274	2558	2612	0
+84			83	Vitis	chr1	3	4	25	10	32	2840	2858	0
+85	Vitis	chr2		Vitis	chr16	2	9	111	59	156	1540	1649	0
+86			85	Vitis	chr15	3	7	40	26	54	1797	1840	0
+87	Vitis	chr2		Vitis	chr16	2	9	106	1430	1516	188	268	0
+88	Vitis	chr19		Vitis	chr12	2	9	99	287	381	419	503	-1
+89	Vitis	chr2		Vitis	chr15	2	9	81	921	1004	1019	1073	0
+90			89	Vitis	chr16	3	13	101	7	74	1136	1232	0
+91	Vitis	chr7		Vitis	chr14	2	9	121	848	950	158	255	0
+92	Vitis	chr17		Vitis	chr14	2	9	127	949	1033	2102	2225	0
+93			92	Vitis	chr1	3	10	102	35	126	13	63	0
+94	Vitis	chr13		Vitis	chr6	2	8	37	1502	1531	2564	2593	-1
+95	Vitis	chr5		Vitis	chr14	2	8	57	932	976	576	618	0
+96	Vitis	chrUn		Vitis	chr18	2	8	48	705	746	1096	1140	0
+97	Vitis	chr9		Vitis	chr11	2	8	66	408	463	368	419	0
+98	Vitis	chr7		Vitis	chr18	2	8	65	2441	2502	825	868	0
+99	Vitis	chr17		Vitis	chr14	2	8	59	1075	1130	3288	3335	-1
+100	Vitis	chr9		Vitis	chr4	2	8	54	607	667	4	50	0
+101	Vitis	chr19		Vitis	chr12	2	8	92	1314	1381	1424	1492	0
+102	Vitis	chr2		Vitis	chr15	2	8	49	597	626	1272	1323	0
+103			102	Vitis	chr16	3	3	30	0	21	2027	2044	0
+104	Vitis	chr13		Vitis	chr8	2	8	85	664	729	1719	1793	-1
+105	Vitis	chr9		Vitis	chr11	2	8	87	24	106	15	81	0
+106	Vitis	chr5		Vitis	chr7	2	8	92	1358	1481	1190	1257	0
+107	Vitis	chr13		Vitis	chr8	2	8	94	471	571	1428	1502	0
+108	Vitis	chr4		Vitis	chr18	2	8	84	2412	2466	2309	2400	-1
+109	Vitis	chr1		Vitis	chr14	2	8	91	1602	1691	3103	3158	0
+110	Vitis	chr7		Vitis	chr18	2	7	38	2611	2639	2955	2988	0
+111	Vitis	chr3		Vitis	chr4	2	7	44	90	126	2394	2426	-1
+112	Vitis	chr7		Vitis	chr14	2	7	29	409	436	748	766	0
+113			112	Vitis	chr5	3	3	14	3	11	825	837	0
+114	Vitis	chr7		Vitis	chr14	2	7	45	47	84	1107	1150	0
+115	Vitis	chr3		Vitis	chr18	2	7	38	596	623	192	226	0
+116			115	Vitis	chr4	3	3	28	16	31	2619	2646	0
+117	Vitis	chr17		Vitis	chr14	2	7	49	133	173	2500	2542	0
+118			117	Vitis	chr1	3	5	44	7	48	2923	2954	0
+119	Vitis	chr17		Vitis	chr1	2	7	49	1924	1965	1333	1370	0
+120	Vitis	chr17		Vitis	chr1	2	7	68	986	1037	13	64	0
+121	Vitis	chr13		Vitis	chr8	2	7	45	126	157	586	627	-1
+122	Vitis	chr10		Vitis	chr19	2	7	50	369	417	344	394	-1
+123	Vitis	chr6		Vitis	chr8	2	7	57	2368	2416	2610	2660	0
+124	Vitis	chr5		Vitis	chrUn	2	7	65	1173	1238	332	380	0
+125			124	Vitis	chr14	3	3	18	36	53	1061	1069	0
+126	Vitis	chr3		Vitis	chr4	2	7	53	276	306	2496	2544	-1
+127	Vitis	chr3		Vitis	chr18	2	7	78	1402	1479	1444	1502	0
+128	Vitis	chr13		Vitis	chr8	2	7	51	575	611	1620	1668	-1
+129	Vitis	chr7		Vitis	chr18	2	7	46	2651	2671	126	168	0
+130	Vitis	chr17		Vitis	chr1	2	7	64	1198	1255	2034	2076	0
+131			130	Vitis	chr14	3	7	39	7	34	3406	3446	0
+132			130	Vitis	chr14	3	7	57	20	63	3432	3476	0
+133	Vitis	chr9		Vitis	chr4	2	7	73	669	734	625	691	0
+134	Vitis	chr2		Vitis	chr16	2	7	83	549	619	2022	2091	0
+135			134	Vitis	chr15	3	5	27	5	21	1356	1372	0
+136	Vitis	chr3		Vitis	chr7	2	7	71	1286	1345	2114	2178	-1
+137	Vitis	chr6		Vitis	chr8	2	7	58	489	545	1269	1298	0
+138	Vitis	chr10		Vitis	chr19	2	7	58	185	219	1092	1148	0
+139	Vitis	chr13		Vitis	chr8	2	7	80	49	100	2021	2097	0
+140	Vitis	chr2		Vitis	chrUn	2	6	23	1119	1139	1277	1297	0
+141	Vitis	chr4		Vitis	chr18	2	6	28	2237	2260	2175	2194	-1
+142	Vitis	chr5		Vitis	chr7	2	6	26	1288	1307	50	74	-1
+143	Vitis	chr6		Vitis	chr8	2	6	28	1166	1187	1898	1924	-1
+144	Vitis	chr17		Vitis	chr1	2	6	39	29	60	3006	3039	0
+145	Vitis	chr6		Vitis	chr8	2	6	38	243	277	2904	2940	0
+146			145	Vitis	chr13	3	3	39	5	25	2699	2727	0
+147	Vitis	chr3		Vitis	chr18	2	6	56	789	827	1661	1705	-1
+148	Vitis	chr9		Vitis	chr11	2	6	34	288	318	238	257	-1
+149	Vitis	chr3		Vitis	chr18	2	6	39	1205	1237	1638	1658	-1
+150	Vitis	chr2		Vitis	chr16	2	6	51	197	234	1721	1763	0
+151	Vitis	chr5		Vitis	chrUn	2	6	33	2822	2864	1048	1065	0
+152	Vitis	chr3		Vitis	chr18	2	6	54	1156	1200	2100	2145	0
+153	Vitis	chr17		Vitis	chr14	2	6	48	1262	1307	3489	3533	0
+154	Vitis	chr13		Vitis	chr6	2	6	45	1191	1224	490	533	-1
+155	Vitis	chr3		Vitis	chr7	2	6	34	995	1045	1898	1911	0
+156			155	Vitis	chr18	3	3	17	0	16	1895	1901	0
+157	Vitis	chr17		Vitis	chr1	2	6	59	796	846	539	587	0
+158	Vitis	chr5		Vitis	chr7	2	6	55	1582	1632	1362	1414	0
+159	Vitis	chr19		Vitis	chr12	2	6	48	735	773	1263	1318	0
+160	Vitis	chr10		Vitis	chr19	2	6	68	550	600	148	211	0
+161	Vitis	chr11		Vitis	chr4	2	6	68	729	791	691	751	0
+162	Vitis	chr17		Vitis	chr1	2	6	45	1597	1617	1627	1674	-1
+163	Vitis	chr17		Vitis	chr14	2	6	73	290	341	2652	2717	0
+164			163	Vitis	chr1	3	3	40	8	35	2644	2686	0
+165			163	Vitis	chr1	3	3	35	23	51	2621	2646	0
+166	Vitis	chr9		Vitis	chr11	2	5	13	1129	1139	1122	1129	0
+167			166	Vitis	chr4	3	3	8	0	7	1024	1029	0
+168	Vitis	chr6		Vitis	chr8	2	5	15	103	116	3105	3111	0
+169	Vitis	chr6		Vitis	chr8	2	5	16	650	659	1353	1368	-1
+170	Vitis	chr2		Vitis	chr15	2	5	35	366	397	1453	1485	0
+171	Vitis	chr11		Vitis	chr4	2	5	27	1100	1125	1007	1029	0
+172	Vitis	chr13		Vitis	chr8	2	5	38	241	271	721	753	0
+173	Vitis	chr1		Vitis	chr14	2	5	27	2557	2579	2720	2734	0
+174	Vitis	chr6		Vitis	chr8	2	5	31	1661	1683	85	113	0
+175	Vitis	chr1		Vitis	chr14	2	5	46	2044	2076	3445	3476	-1
+176	Vitis	chr13		Vitis	chr6	2	5	34	2478	2506	438	460	0
+177			176	Vitis	chr8	3	3	33	0	25	3325	3340	0
+178	Vitis	chr5		Vitis	chr7	2	5	24	658	667	576	598	0
+179	Vitis	chr2		Vitis	chr16	2	5	30	771	794	1389	1430	0
+180			179	Vitis	chr15	3	3	19	11	29	1971	1994	0
+181	Vitis	chr17		Vitis	chr1	2	5	40	463	499	914	961	0
+182	Vitis	chr13		Vitis	chr8	2	5	31	1019	1057	1406	1425	0
+183	Vitis	chr13		Vitis	chr6	2	5	36	864	925	1162	1196	0
+184	Vitis	chr3		Vitis	chr4	2	5	24	308	331	2563	2572	-1
+185	Vitis	chr11		Vitis	chr4	2	5	36	614	645	0	28	0
+186	Vitis	chr17		Vitis	chr14	2	5	47	1511	1548	3244	3282	0
+187	Vitis	chr11		Vitis	chr4	2	5	49	1010	1048	948	984	0
+188	Vitis	chr9		Vitis	chr11	2	5	47	787	821	833	873	0
+189	Vitis	chr17		Vitis	chr1	2	5	70	1217	1266	2061	2108	0
+190	Vitis	chr5		Vitis	chr7	2	5	30	482	511	1042	1049	-1
+191	Vitis	chr13		Vitis	chr8	2	5	57	2523	2579	3223	3287	0
+192	Vitis	chr9		Vitis	chr11	2	5	60	1264	1330	1309	1353	0
+193			192	Vitis	chr4	3	4	39	25	53	1209	1230	0
+194	Vitis	chr3		Vitis	chr7	2	5	38	859	902	2387	2405	-1
+195	Vitis	chr17		Vitis	chr14	2	5	38	62	97	2418	2432	0
+196			195	Vitis	chr1	3	4	23	0	21	2872	2889	0
+197	Vitis	chr2		Vitis	chr16	2	5	40	900	917	1240	1281	0
+198			197	Vitis	chr15	3	3	27	3	29	1144	1162	0
+199	Vitis	chr13		Vitis	chr6	2	5	60	992	1034	709	766	0
+200	Vitis	chr17		Vitis	chrUn	2	5	50	1833	1860	1087	1139	0
+201	Vitis	chr13		Vitis	chr6	2	5	58	2548	2605	310	352	0
+202	Vitis	chr4		Vitis	chr18	2	4	10	2179	2188	2144	2152	0
+203	Vitis	chr9		Vitis	chr4	2	4	12	1124	1135	1014	1029	-1
+204	Vitis	chr17		Vitis	chr1	2	4	12	604	615	737	747	0
+205	Vitis	chr15		Vitis	chr16	2	4	10	1657	1666	1735	1742	-1
+206	Vitis	chr10		Vitis	chr12	2	4	12	336	347	562	571	0
+207	Vitis	chr10_random		Vitis	chr12	2	4	12	8	18	940	951	0
+208	Vitis	chr13		Vitis	chr8	2	4	13	385	397	909	917	0
+209	Vitis	chr9		Vitis	chrUn	2	4	11	1603	1609	233	245	0
+210	Vitis	chr15		Vitis	chrUn	2	4	22	391	412	173	191	0
+211			210	Vitis	chrUn	3	3	22	0	21	2383	2393	0
+212	Vitis	chr9		Vitis	chr4	2	4	18	328	344	180	196	-1
+213	Vitis	chr4		Vitis	chr18	2	4	15	2566	2573	2525	2538	-1
+214	Vitis	chr2		Vitis	chr15	2	4	26	490	509	1402	1420	0
+215	Vitis	chr3		Vitis	chr18	2	4	17	41	57	2295	2309	-1
+216	Vitis	chr13		Vitis	chr13	2	4	14	1971	1987	1699	1706	0
+217	Vitis	chr6		Vitis	chr8	2	4	26	441	460	3325	3340	-1
+218	Vitis	chr2		Vitis	chr16	2	4	15	1109	1124	940	947	0
+219	Vitis	chr2		Vitis	chr15	2	4	25	1052	1076	969	989	0
+220	Vitis	chr17		Vitis	chr14	2	4	21	1588	1605	3146	3167	0
+221	Vitis	chr15		Vitis	chr16	2	4	16	1047	1063	1152	1159	-1
+222	Vitis	chr1		Vitis	chr14	2	4	18	2972	2989	2433	2446	0
+223	Vitis	chr3		Vitis	chrUn	2	4	16	1053	1070	861	873	0
+224	Vitis	chr12		Vitis	chrUn	2	4	20	1298	1316	804	816	0
+225	Vitis	chr9		Vitis	chr11	2	4	32	166	189	118	141	-1
+226	Vitis	chr17		Vitis	chr1	2	4	23	745	767	633	655	-1
+227	Vitis	chr1		Vitis	chr14	2	4	25	2225	2247	2062	2082	0
+228	Vitis	chr8		Vitis	chrUn	2	4	23	1463	1480	1914	1940	-1
+229	Vitis	chr5		Vitis	chr7	2	4	25	875	897	350	370	0
+230	Vitis	chr5		Vitis	chr14	2	4	22	1146	1164	1006	1027	-1
+231	Vitis	chr15		Vitis	chr16	2	4	28	1571	1594	1788	1809	0
+232	Vitis	chr2		Vitis	chr16	2	4	19	672	683	1491	1511	0
+233	Vitis	chr13		Vitis	chr8	2	4	22	972	990	2001	2011	0
+234	Vitis	chr19		Vitis	chrUn	2	4	26	735	759	2055	2089	0
+235	Vitis	chr19		Vitis	chr12	2	4	26	892	916	1213	1235	0
+236	Vitis	chr15		Vitis	chr16	2	4	21	1971	1995	1385	1410	0
+237	Vitis	chr6		Vitis	chr8	2	4	26	1504	1525	764	789	0
+238	Vitis	chr17		Vitis	chr1	2	4	25	218	240	2840	2858	-1
+239	Vitis	chr13		Vitis	chr8	2	4	29	2022	2046	1092	1112	0
+240	Vitis	chr11		Vitis	chr4	2	4	21	457	476	150	160	0
+241	Vitis	chr10		Vitis	chr19	2	4	18	125	150	1169	1177	0
+242	Vitis	chr19		Vitis	chr12	2	4	27	500	529	663	687	0
+243	Vitis	chr3		Vitis	chr18	2	4	26	424	443	376	401	0
+244	Vitis	chr2		Vitis	chr16	2	4	27	946	965	1158	1189	-1
+245	Vitis	chr16		Vitis	chrUn	2	4	33	486	520	1697	1728	0
+246			245	Vitis	chr15	3	3	5	28	32	255	259	0
+247	Vitis	chr1		Vitis	chr14	2	4	24	1806	1830	3229	3243	0
+248	Vitis	chr5		Vitis	chr14	2	4	27	505	531	58	76	0
+249	Vitis	chr1		Vitis	chr14	2	4	23	15	26	2131	2154	-1
+250	Vitis	chr2		Vitis	chr16	2	4	50	857	900	1293	1358	0
+251	Vitis	chr19		Vitis	chrUn	2	4	26	534	561	1580	1597	0
+252	Vitis	chr17		Vitis	chr14	2	4	32	691	706	1828	1853	-1
+253	Vitis	chr17		Vitis	chr1	2	4	28	567	595	775	792	0
+254	Vitis	chr17		Vitis	chr14	2	4	36	1740	1769	2978	3000	0
+255	Vitis	chr10		Vitis	chr19	2	4	28	645	678	63	79	0
+256	Vitis	chr9		Vitis	chr4	2	4	28	907	943	815	828	0
+257	Vitis	chr9		Vitis	chr11	2	4	38	235	258	196	228	-1
+258	Vitis	chr9		Vitis	chr11	2	4	39	1783	1813	1616	1660	0
+259	Vitis	chr7		Vitis	chr18	2	4	27	1898	1911	1895	1936	0
+260	Vitis	chr5		Vitis	chr7	2	4	27	727	755	483	495	0
+261	Vitis	chr3		Vitis	chr18	2	4	48	995	1048	1895	1940	0
+262	Vitis	chr5		Vitis	chr14	2	4	31	178	210	252	271	-1
+263	Vitis	chr2		Vitis	chr15	2	4	43	1345	1385	459	499	0
+264	Vitis	chr19		Vitis	chrUn	2	4	30	1915	1933	201	235	0
+265	Vitis	chr19		Vitis	chr12	2	4	34	1435	1469	1540	1561	0
+266	Vitis	chr13		Vitis	chr6	2	4	36	2699	2727	226	262	0
+267	Vitis	chr1		Vitis	chr14	2	4	36	2923	2952	2507	2542	-1
+268	Vitis	chr17		Vitis	chr1	2	4	33	103	136	2954	2976	0
+269			268	Vitis	chr14	3	4	34	1	27	2455	2491	0
+270	Vitis	chr4		Vitis	chr18	2	4	36	2790	2816	2650	2686	0
+271	Vitis	chr3		Vitis	chr18	2	4	46	628	667	98	133	0
+272	Vitis	chr18		Vitis	chr18	2	4	42	3309	3358	3179	3219	0
+273	Vitis	chr7		Vitis	chr18	2	4	41	2743	2762	568	600	0
+274	Vitis	chr2		Vitis	chr15	2	4	43	781	822	1972	2029	0
+275	Vitis	chr17		Vitis	chr14	2	4	32	1952	1983	2797	2812	0
+276	Vitis	chr9		Vitis	chr11	2	4	47	1870	1927	2098	2150	0
+277	Vitis	chr7		Vitis	chr14	2	4	32	1066	1098	19	33	0
+278	Vitis	chr6		Vitis	chr8	2	4	55	205	240	2984	3028	0
+279	Vitis	chr1		Vitis	chr14	2	4	39	1947	1987	3344	3376	0
+280	Vitis	chrUn		Vitis	chr18	2	4	36	1550	1563	393	429	0
+281	Vitis	chr17		Vitis	chr14	2	4	42	352	368	1428	1466	0
+282	Vitis	chr17		Vitis	chr14	2	4	57	1839	1891	2871	2926	0
+283	Vitis	chr15		Vitis	chr16	2	4	40	1880	1923	1458	1475	0
+284	Vitis	chr3		Vitis	chr18	2	4	52	1085	1102	2005	2051	-1
+285	Vitis	chr19		Vitis	chr12	2	4	59	634	694	1058	1102	0
+286	Vitis	chrUn		Vitis	chrUn	2	3	3	3014	3016	2539	2541	0
+287	Vitis	chr7_random		Vitis	chr7	2	3	3	12	14	1868	1870	0
+288	Vitis	chr6		Vitis	chr8	2	3	3	601	603	1314	1316	-1
+289	Vitis	chr5		Vitis	chr5	2	3	3	469	471	358	360	0
+290	Vitis	chr3		Vitis	chr6	2	3	3	1675	1677	2158	2160	0
+291	Vitis	chr11		Vitis	chr1	2	3	3	1669	1671	2278	2280	0
+292	Vitis	chr1		Vitis	chr14	2	3	3	63	65	2223	2225	-1
+293	Vitis	chr10_random		Vitis	chrUn	2	3	4	28	31	2479	2482	0
+294	Vitis	chrUn		Vitis	chrUn	2	3	4	2360	2362	702	705	0
+295	Vitis	chr15		Vitis	chrUn	2	3	5	255	259	1697	1702	-1
+296	Vitis	chr12		Vitis	chrUn	2	3	5	1083	1087	2476	2480	0
+297	Vitis	chrUn		Vitis	chr18	2	3	5	1868	1872	918	921	0
+298	Vitis	chr9		Vitis	chrUn	2	3	5	1607	1612	686	690	0
+299	Vitis	chr6		Vitis	chrUn	2	3	6	836	840	1938	1941	-1
+300	Vitis	chr19		Vitis	chrUn	2	3	7	911	916	2726	2731	0
+301	Vitis	chr12		Vitis	chr12	2	3	5	1948	1952	1920	1925	0
+302	Vitis	chr3		Vitis	chr7	2	3	6	794	798	2271	2276	0
+303	Vitis	chr16		Vitis	chr16	2	3	5	1684	1689	1635	1639	-1
+304	Vitis	chr11		Vitis	chr4	2	3	6	1233	1237	1089	1094	0
+305	Vitis	chr1		Vitis	chr14	2	3	7	1332	1338	2806	2812	-1
+306	Vitis	chr15		Vitis	chr16	2	3	6	1835	1840	1576	1579	-1
+307	Vitis	chr6		Vitis	chr8	2	3	8	2659	2668	2329	2335	0
+308	Vitis	chr3		Vitis	chrUn	2	3	9	1515	1526	2255	2261	0
+309	Vitis	chr3		Vitis	chr7	2	3	8	628	634	2669	2676	0
+310	Vitis	chr13		Vitis	chr8	2	3	8	1531	1537	2385	2392	-1
+311	Vitis	chr13		Vitis	chr8	2	3	6	438	443	1539	1541	-1
+312	Vitis	chrUn		Vitis	chrUn	2	3	7	464	470	208	214	-1
+313	Vitis	chr5		Vitis	chr14	2	3	11	736	745	903	910	0
+314	Vitis	chr3		Vitis	chr7	2	3	7	959	962	1933	1939	0
+315	Vitis	chr2		Vitis	chr16	2	3	11	74	81	1563	1572	-1
+316	Vitis	chr2		Vitis	chr15	2	3	11	483	491	1417	1424	0
+317	Vitis	chr19		Vitis	chr12	2	3	9	1215	1222	911	919	0
+318	Vitis	chr16		Vitis	chr8	2	3	9	1072	1079	2457	2465	0
+319	Vitis	chr11		Vitis	chr4	2	3	9	1349	1358	1202	1209	0
+320	Vitis	chrUn		Vitis	chr18	2	3	10	1889	1897	1161	1170	0
+321	Vitis	chr2		Vitis	chr15	2	3	8	1251	1258	558	562	0
+322	Vitis	chr2		Vitis	chr15	2	3	9	571	575	1328	1335	0
+323	Vitis	chr17		Vitis	chr1	2	3	9	1188	1195	1995	1999	0
+324	Vitis	chr16		Vitis	chr6	2	3	7	1741	1747	1647	1649	0
+325	Vitis	chr15		Vitis	chr16	2	3	7	1161	1163	1276	1284	0
+326	Vitis	chr13		Vitis	chr8	2	3	7	782	789	1814	1816	0
+327	Vitis	chr12		Vitis	chr18	2	3	13	1752	1760	3011	3023	0
+328	Vitis	chr9		Vitis	chr4	2	3	10	1347	1357	1196	1203	0
+329	Vitis	chr8		Vitis	chr18	2	3	9	2760	2765	3572	3580	0
+330	Vitis	chr17		Vitis	chr1	2	3	11	62	71	2879	2889	-1
+331	Vitis	chr13		Vitis	chr6	2	3	10	621	628	1008	1017	-1
+332	Vitis	chr9		Vitis	chr19	2	3	10	1600	1609	1921	1931	-1
+333	Vitis	chr5		Vitis	chr14	2	3	9	301	313	363	367	-1
+334	Vitis	chr2		Vitis	chr15	2	3	11	554	560	1363	1372	-1
+335	Vitis	chr19		Vitis	chr12	2	3	14	611	621	777	787	0
+336	Vitis	chr1		Vitis	chr14	2	3	11	109	119	3609	3617	0
+337	Vitis	chrUn		Vitis	chrUn	2	3	9	2509	2512	1214	1222	0
+338	Vitis	chrUn		Vitis	chrUn	2	3	10	930	937	688	700	0
+339	Vitis	chrUn		Vitis	chr18	2	3	9	2357	2360	1132	1140	-1
+340	Vitis	chr9		Vitis	chr4	2	3	9	1175	1178	1073	1081	0
+341	Vitis	chr7		Vitis	chr7	2	3	13	1824	1839	1801	1818	0
+342	Vitis	chr7		Vitis	chr18	2	3	9	2003	2006	1051	1059	0
+343	Vitis	chr4		Vitis	chr18	2	3	10	2496	2505	2487	2492	-1
+344	Vitis	chr13		Vitis	chr8	2	3	12	178	189	682	691	-1
+345	Vitis	chr4		Vitis	chr18	2	3	17	2881	2895	2603	2622	0
+346	Vitis	chr17		Vitis	chr1	2	3	14	1537	1552	1774	1786	0
+347	Vitis	chr14		Vitis	chrUn	2	3	12	1061	1069	360	370	-1
+348	Vitis	chr13		Vitis	chr6	2	3	19	972	986	1245	1259	0
+349	Vitis	chrUn		Vitis	chrUn	2	3	10	2375	2378	1532	1546	0
+350	Vitis	chrUn		Vitis	chr18	2	3	10	2119	2130	877	880	0
+351	Vitis	chr5		Vitis	chr7	2	3	11	920	930	256	261	0
+352	Vitis	chr5		Vitis	chr7	2	3	14	404	417	1000	1011	-1
+353	Vitis	chr17		Vitis	chr1	2	3	13	1335	1348	103	113	0
+354	Vitis	chr13_random		Vitis	chr18	2	3	11	24	38	3355	3365	0
+355	Vitis	chr10		Vitis	chr12	2	3	13	183	192	858	873	0
+356	Vitis	chr1		Vitis	chr14	2	3	10	2849	2858	2558	2561	-1
+357	Vitis	chr5		Vitis	chr14	2	3	11	227	237	301	305	0
+358	Vitis	chr17		Vitis	chr14	2	3	19	1022	1037	2224	2238	0
+359	Vitis	chr13		Vitis	chr8	2	3	19	1620	1635	2333	2347	0
+360	Vitis	chr13		Vitis	chr8	2	3	15	1293	1308	2621	2633	-1
+361	Vitis	chr9		Vitis	chr4	2	3	11	1395	1406	1149	1152	0
+362	Vitis	chr7		Vitis	chr18	2	3	14	2690	2700	523	536	0
+363	Vitis	chr6		Vitis	chr8	2	3	11	2344	2355	1234	1237	0
+364	Vitis	chr3		Vitis	chr18	2	3	12	523	540	317	324	0
+365	Vitis	chr2		Vitis	chr16	2	3	14	509	518	2102	2115	0
+366	Vitis	chr17		Vitis	chr14	2	3	14	1177	1191	3370	3379	0
+367	Vitis	chr15		Vitis	chr16	2	3	25	1356	1371	2070	2086	-1
+368	Vitis	chr11		Vitis	chr4	2	3	21	954	970	815	828	-1
+369	Vitis	chr11		Vitis	chr4	2	3	11	525	536	83	86	0
+370	Vitis	chr5		Vitis	chr7	2	3	15	73	83	923	937	-1
+371	Vitis	chr3		Vitis	chr7	2	3	12	1205	1209	2240	2251	-1
+372	Vitis	chr19		Vitis	chr12	2	3	12	1134	1138	851	863	0
+373	Vitis	chr13		Vitis	chr13	2	3	12	1910	1914	1764	1775	0
+374	Vitis	chr7		Vitis	chr18	2	3	14	1968	1981	1006	1013	0
+375	Vitis	chr17		Vitis	chr14	2	3	14	1706	1719	3001	3008	0
+376	Vitis	chr17		Vitis	chr1	2	3	16	2033	2047	2509	2519	0
+377	Vitis	chr13		Vitis	chr6	2	3	15	2674	2681	159	173	0
+378	Vitis	chr19		Vitis	chr12	2	3	23	1281	1305	794	824	0
+379	Vitis	chr9		Vitis	chr11	2	3	18	725	734	714	729	0
+380	Vitis	chr5		Vitis	chr7	2	3	19	1502	1519	1296	1314	0
+381	Vitis	chr2		Vitis	chr7	2	3	23	1553	1574	1866	1890	0
+382	Vitis	chr17		Vitis	chr1	2	3	15	1708	1722	1454	1463	0
+383	Vitis	chr13		Vitis	chr6	2	3	15	2516	2523	382	396	0
+384	Vitis	chr11		Vitis	chr4	2	3	18	1523	1539	1114	1125	0
+385	Vitis	chr9		Vitis	chr11	2	3	14	1148	1152	1153	1169	0
+386	Vitis	chr5		Vitis	chr7	2	3	17	1018	1029	185	202	0
+387	Vitis	chr19		Vitis	chrUn	2	3	24	843	863	1658	1680	0
+388	Vitis	chr13		Vitis	chr8	2	3	18	1411	1428	2483	2495	0
+389	Vitis	chr1		Vitis	chr14	2	3	15	2889	2903	2412	2418	0
+390	Vitis	chr7		Vitis	chr14	2	3	31	759	781	311	334	0
+391	Vitis	chr6		Vitis	chr8	2	3	21	705	723	1411	1422	-1
+392	Vitis	chr5		Vitis	chr14	2	3	16	1414	1450	1207	1214	0
+393	Vitis	chr19		Vitis	chrUn	2	3	15	686	700	2345	2350	0
+394	Vitis	chrUn		Vitis	chrUn	2	3	18	2383	2393	173	191	-1
+395	Vitis	chr9		Vitis	chr11	2	3	22	313	334	330	348	-1
+396	Vitis	chr3_random		Vitis	chr16_random	2	3	15	1	5	10	27	0
+397	Vitis	chr3		Vitis	chr4	2	3	23	584	609	2599	2619	0
+398	Vitis	chr13		Vitis	chr6	2	3	15	1339	1343	891	907	-1
+399	Vitis	chr9		Vitis	chr11	2	3	19	842	860	876	889	0
+400	Vitis	chr6		Vitis	chr1	2	3	17	1456	1472	639	646	-1
+401	Vitis	chr5		Vitis	chr7	2	3	17	26	42	979	986	-1
+402	Vitis	chr15		Vitis	chrUn	2	3	25	223	248	890	917	0
+403	Vitis	chr10		Vitis	chr15	2	3	26	1393	1420	192	214	0
+404	Vitis	chr9		Vitis	chr11	2	3	28	1648	1673	1545	1569	0
+405	Vitis	chr5		Vitis	chr14	2	3	26	1467	1497	1256	1278	0
+406	Vitis	chr5		Vitis	chr14	2	3	16	755	770	829	833	0
+407	Vitis	chr3		Vitis	chr9	2	3	20	2063	2077	1545	1565	0
+408	Vitis	chr15		Vitis	chr16	2	3	22	1302	1323	2027	2044	-1
+409	Vitis	chr14		Vitis	chr14	2	3	22	1565	1584	6	28	0
+410	Vitis	chr13		Vitis	chr8	2	3	25	1737	1758	2109	2125	0
+411	Vitis	chr9		Vitis	chr4	2	3	23	433	450	202	225	-1
+412	Vitis	chr3		Vitis	chrUn	2	3	18	1558	1576	2694	2699	0
+413	Vitis	chr10		Vitis	chr19	2	3	24	30	53	964	985	0
+414	Vitis	chr9		Vitis	chr4	2	3	21	362	372	257	276	-1
+415	Vitis	chr7		Vitis	chr14	2	3	27	1254	1282	1262	1284	0
+416	Vitis	chr5		Vitis	chr14	2	3	29	1240	1267	1073	1100	0
+417	Vitis	chr2		Vitis	chr16	2	3	16	1541	1556	271	273	0
+418	Vitis	chr19		Vitis	chr12	2	3	20	1236	1246	1010	1032	0
+419	Vitis	chr10		Vitis	chr12	2	3	26	38	56	1152	1175	0
+420	Vitis	chr3		Vitis	chr18	2	3	21	851	874	1745	1756	-1
+421	Vitis	chr2		Vitis	chr14	2	3	28	1370	1398	3287	3317	-1
+422	Vitis	chr16		Vitis	chr6	2	3	20	470	484	2720	2743	-1
+423	Vitis	chr12		Vitis	chr7	2	3	31	2253	2296	1329	1362	0
+424	Vitis	chr17		Vitis	chr1	2	3	18	670	676	682	700	-1
+425	Vitis	chr13		Vitis	chr8	2	3	26	1455	1473	2438	2462	-1
+426	Vitis	chr12_random		Vitis	chr12	2	3	18	20	25	1923	1948	0
+427	Vitis	chr12		Vitis	chr18	2	3	20	2567	2585	3805	3811	0
+428	Vitis	chr1		Vitis	chr14	2	3	24	3108	3125	2294	2317	0
+429	Vitis	chr1		Vitis	chr14	2	3	27	1546	1569	3072	3098	-1
+430	Vitis	chr19		Vitis	chr12	2	3	22	723	732	1380	1411	0
+431	Vitis	chr15		Vitis	chr19	2	3	22	246	256	1931	1955	0
+432	Vitis	chr6		Vitis	chr8	2	3	24	369	382	3260	3287	-1
+433	Vitis	chr5		Vitis	chr6	2	3	25	1893	1918	2024	2039	0
+434	Vitis	chr12_random		Vitis	chr18	2	3	38	1	43	928	960	0
+435	Vitis	chr1		Vitis	chr14	2	3	33	1838	1868	1560	1584	0
+436	Vitis	chr3		Vitis	chr14	2	3	24	1709	1747	1580	1593	0
+437	Vitis	chr2		Vitis	chr15	2	3	22	1108	1130	937	945	0
+438	Vitis	chr12		Vitis	chr13	2	3	28	2318	2356	2223	2246	0
+439	Vitis	chr18_random		Vitis	chr7	2	3	26	68	83	2542	2570	0
+440	Vitis	chr10		Vitis	chr12	2	3	30	320	349	559	580	0
+441	Vitis	chr10		Vitis	chr9	2	3	33	1274	1303	535	597	0
+442	Vitis	chr13		Vitis	chr8	2	3	24	1728	1736	2163	2196	-1
+443	Vitis	chr9		Vitis	chr4	2	3	23	200	223	390	395	-1
+444	Vitis	chr6		Vitis	chr8	2	3	30	1324	1343	2075	2104	0
+445	Vitis	chr3		Vitis	chr18	2	3	35	1644	1673	1284	1320	0
+446	Vitis	chr4		Vitis	chr18	2	3	28	2619	2646	198	210	-1
+447	Vitis	chr19		Vitis	chrUn	2	3	24	626	650	2226	2229	0
+448	Vitis	chr13		Vitis	chr6	2	3	41	1645	1687	2650	2688	0
+449	Vitis	chr13		Vitis	chr8	2	3	28	2373	2401	3400	3409	0
