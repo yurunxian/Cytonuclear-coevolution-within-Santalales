@@ -1,0 +1,120 @@
+#Gene name	Arabidopsis	OXPHOS	Function
+13kD	AT3G03070	Complex I	NADH-binding (N) module
+18kD	AT5G67590	Complex I	NADH-binding (N) module
+24kD	AT4G02580	Complex I	NADH-binding (N) module
+51kD	AT5G08530	Complex I	NADH-binding (N) module
+75kD	AT5G37510	Complex I	NADH-binding (N) module
+B8	AT5G47890	Complex I	NADH-binding (N) module
+39kD	AT2G20360	Complex I	ubiquinone-binding (Q) module
+B13	AT4G28005, AT5G52840	Complex I	ubiquinone-binding (Q) module
+B14	AT3G12260	Complex I	ubiquinone-binding (Q) module
+B14.5a	AT5G08060	Complex I	ubiquinone-binding (Q) module
+B17.2	AT3G03100	Complex I	ubiquinone-binding (Q) module
+PSST	AT5G11770	Complex I	ubiquinone-binding (Q) module
+TYKY	AT1G16700, AT1G79010	Complex I	ubiquinone-binding (Q) module
+15K	AT2G47690, AT3G62790	Complex I	proximal proton-pumping (Pp) module
+B14.5b	AT4G20150	Complex I	proximal proton-pumping (Pp) module
+B16.6	AT1G04630, AT2G33220	Complex I	proximal proton-pumping (Pp) module
+B9	AT2G46540	Complex I	proximal proton-pumping (Pp) module
+MNLL	AT4G16450	Complex I	proximal proton-pumping (Pp) module
+MWFE	AT3G08610	Complex I	proximal proton-pumping (Pp) module
+P2	AT2G27730	Complex I	proximal proton-pumping (Pp) module
+PGIV	AT3G06310, AT5G18800	Complex I	proximal proton-pumping (Pp) module
+ACP1	AT2G44620	Complex I	distal proton-pumping (Pd) module
+AGGG	AT1G76200	Complex I	distal proton-pumping (Pd) module
+B12	AT1G14450, AT2G02510	Complex I	distal proton-pumping (Pd) module
+B15	AT2G31490	Complex I	distal proton-pumping (Pd) module
+B18	AT2G02050	Complex I	distal proton-pumping (Pd) module
+B22	AT4G34700	Complex I	distal proton-pumping (Pd) module
+ESSS	AT2G42310, AT3G57785	Complex I	distal proton-pumping (Pd) module
+P1	AT1G67350	Complex I	distal proton-pumping (Pd) module
+PDSW	AT1G49140, AT3G18410	Complex I	distal proton-pumping (Pd) module
+ACP2	AT1G65290	Complex I	carbonic anhydrase-like (CAL) module
+CAL	AT3G48680, AT5G63510	Complex I	carbonic anhydrase-like (CAL) module
+CI-FDX	AT3G07480	Complex I	carbonic anhydrase-like (CAL) module
+γCA	AT1G19580, AT1G47260, AT5G66510	Complex I	carbonic anhydrase-like (CAL) module
+CIAF1	AT1G76060	Complex I	putative assembly factor
+FTSH3	AT1G07510, AT2G29080	Complex I	putative assembly factor
+ICDH	AT1G54340, AT1G65930	Complex I	putative assembly factor
+NDUFAF1	AT1G17350, AT1G72420	Complex I	putative assembly factor
+NDUFAF2	AT4G26965	Complex I	putative assembly factor
+NDUFAF3	AT2G44525, AT3G60150	Complex I	putative assembly factor
+NDUFAF5	AT1G22800	Complex I	putative assembly factor
+NDUFAF6	AT1G62730	Complex I	putative assembly factor
+NDUFAF7	AT3G28700	Complex I	putative assembly factor
+NUBPL	AT4G19540	Complex I	putative assembly factor
+SDH1	AT2G18450, AT5G66760	Complex II	-
+SDH2	AT3G27380, AT5G40650, AT5G65165	Complex II	-
+SDH5	AT1G47420	Complex II	-
+SDH6	AT1G08480	Complex II	-
+SDH7	AT3G47833, AT5G62575	Complex II	-
+SDH8	AT2G46390	Complex II	-
+SDHAF1	AT2G39725	Complex II	putative assembly factor
+SDHAF2	AT5G51040	Complex II	putative assembly factor
+SDHAF4	AT5G67490	Complex II	putative assembly factor
+MPP-a	AT1G51980, AT3G16480	Complex III	matrix-facing module
+MPP-b	AT3G02090	Complex III	matrix-facing module
+CYC1	AT3G27240, AT5G40810	Complex III	membrane-embedded module
+QCR10	AT3G52730	Complex III	membrane-embedded module
+QCR6	AT1G15120, AT2G01090	Complex III	membrane-embedded module
+QCR7	AT4G32470, AT5G25450	Complex III	membrane-embedded module
+QCR8	AT3G10860, AT5G05370	Complex III	membrane-embedded module
+QCR9	AT2G40765	Complex III	membrane-embedded module
+UCR1	AT5G13430, AT5G13440	Complex III	membrane-embedded module
+CCMH	AT1G15220	Complex III	putative assembly factor
+CCME	AT3G51790	Complex III	putative assembly factor
+CCMA	AT1G63270	Complex III	putative assembly factor
+LYRM7	AT3G62810	Complex III	putative assembly factor
+MTTATB	AT5G43680	Complex III	putative assembly factor
+UQCC1	AT5G51220	Complex III	putative assembly factor
+COX4	AT1G01170, AT4G00860	Complex IV	COX1 module
+COX5b	AT1G52710, AT1G80230, AT3G15640	Complex IV	COX1 module
+COX5c	AT2G47380, AT5G40382, AT5G61310	Complex IV	COX2 module*
+COX7c	AT1G72020	Complex IV	COX2 module
+COX6a	AT4G37830	Complex IV	COX3 module
+COX6b	AT1G22450, AT4G28060, AT5G57815	Complex IV	COX3 module*
+COX7a	AT4G21105	Complex IV	COX3 module
+CMC1	AT5G16060	Complex IV	putative assembly factor
+CMC2	AT4G21192	Complex IV	putative assembly factor
+COA5	AT1G10865	Complex IV	putative assembly factor
+COA6	AT5G58005	Complex IV	putative assembly factor
+COX10	AT2G44520	Complex IV	putative assembly factor
+COX11	AT1G02410	Complex IV	putative assembly factor
+COX15	AT5G56090	Complex IV	putative assembly factor
+COX16	AT4G14145	Complex IV	putative assembly factor
+COX17	AT1G53030, AT3G15352	Complex IV	putative assembly factor
+OXA2A	AT1G65080, AT3G44370	Complex IV	putative assembly factor
+COX18	AT2G46470, AT5G62050	Complex IV	putative assembly factor
+COX19	AT1G66590, AT1G69750	Complex IV	putative assembly factor
+OXA1	AT5G09570, AT5G64400	Complex IV	putative assembly factor*
+COX23	AT1G02160	Complex IV	putative assembly factor
+HIGD1A	AT3G48030	Complex IV	putative assembly factor
+IMP2	AT3G08980	Complex IV	putative assembly factor
+OMA1	AT5G51740	Complex IV	putative assembly factor
+SCO1	AT3G08950	Complex IV	putative assembly factor
+SCO2	AT4G39740	Complex IV	putative assembly factor
+SURF1	AT3G17910	Complex IV	putative assembly factor
+TACO1	AT2G25830	Complex IV	putative assembly factor
+ATPβ	AT5G08670, AT5G08680, AT5G08690	Complex V	F1 domain
+ATPγ	AT2G33040	Complex V	Central stalk
+ATPδ	AT5G47030	Complex V	Central stalk
+ATPε	AT1G51650	Complex V	Central stalk
+ATP6kD	AT3G46430, AT5G59613	Complex V	Peripheral stalk
+ATP20	AT2G19680, AT4G26210, AT4G29480	Complex V	Peripheral stalk
+ATPf	AT4G30010	Complex V	Peripheral stalk
+ATP5	AT5G13450	Complex V	Peripheral stalk
+ATP7	AT3G52300	Complex V	Peripheral stalk
+ATP-FAD	AT2G21870	Complex V	Peripheral stalk
+ATP10	AT1G08220	Complex V	putative assembly factor
+ATP23	AT3G03420	Complex V	putative assembly factor
+ATPAF1	AT2G34050	Complex V	putative assembly factor
+ATPAF2	AT5G40660	Complex V	putative assembly factor
+ATPIF1	AT5G04750	Complex V	putative assembly factor
+FMC1	AT5G51960	Complex V	putative assembly factor
+DnaJC15	AT2G35795, AT3G09700, AT5G03030	Supercomplexes	putative assembly factor
+SLP2	AT4G27585, AT5G54100	Supercomplexes	putative assembly factor
+AOX	AT3G22370, AT3G22360, AT3G27620, AT1G32350, AT5G64210	*		
+NDB	AT4G28220, AT4G05020, AT4G21490, AT2G20800		*
+NDA	AT1G07180, AT2G29990			
+NDC	AT5G08740
+CYTC	AT1G22840, AT4G10040

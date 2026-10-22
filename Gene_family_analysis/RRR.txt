@@ -1,0 +1,39 @@
+#Gene name	Arabidopsis	OXPHOS	Function
+ARP	AT2G41460	excision of apurinic/apyrimidinic residues  	
+CRY3	AT5G24850	single-stranded DNA photolyase (CRY-DASH) 	
+DJ1D	AT3G02720	repair of glycated DNA and RNA	
+FPG1	AT1G52500	DNA glycosylase, excision of 8-oxoG	
+GYRA	AT3G10690	topological relaxation and decatenation	
+GYRB	AT3G10270, AT5G04130	topological relaxation and decatenation	
+LIG1	AT1G08130	DNA ligation	
+MOC1	AT2G26840	Holliday junction resolvase, nucleoid segregation	
+MSH1	AT3G24320	DNA recombination surveillance	
+MUTS2-1	AT5G54090	unknown	
+MUTS2-2	AT1G65070	unknown	
+NTH	AT2G31450, AT1G05900	base excision repair	
+ODB1	AT1G71310	stimulates annealing of complementary ssDNA molecules	
+ODB2	AT5G47870	DNA binding protein, homologous recombination	
+OEX1	AT3G52050	5'-3' exonuclease activity, DNA binding, DNA-directed DNA polymerase activity	
+OEX2	AT1G34380	5'-3' exonuclease activity, DNA binding, DNA-directed DNA polymerase activity	
+OGG1	AT1G21710	excision of 8-oxo-dG	
+OSB1	AT1G47720 	suppresses homologous recombination	
+OSB2-4	AT4G20010, AT5G44785, AT1G31010	blocks microhomology-mediated end joining (MMEJ)	
+PHR1	AT1G12370	photolyase, repairs cyclobutane pyrimidine dimers	
+POLIAB	AT1G50840, AT3G20540	DNA synthesis	
+PRIMPOL	AT5G52800	primase and lesion bypass DNA polymerase	
+RADA	AT5G50340	ATP binding, DNA-dependent ATPase activity, damaged-DNA binding	
+RECA1	AT1G79050	homologous recombination-mediated repair, genome stability	
+RECA2	AT2G19490	recA DNA recombination family protein	
+RECA3	AT3G10140 	homology-dependent DNA recombination and repair	
+RECG1	AT2G01440	recomb.-dependent repair, suppresses ectopic recombination	
+RECX	AT3G13226	maintains mtDNA stability	
+RNH1BC	AT5G51080, AT1G24090	RNase H1, maintain genome integrity	
+#RPOTmp	AT5G15700	RNA polymerase	
+SSB1	AT4G11060	single strand DNA protection and melting of secondary structures	
+SSB2	AT3G18580	single strand DNA protection and melting of secondary structures	
+TOPIA	AT4G31210	DNA topoisomerase type I 	
+TWINKLE	AT1G30680	replicative DNA helicase and primer synthesis	
+UNG	AT3G18630	excision of uracil residues	
+UVR3	AT3G15620	photolyase, repairs 6-4 pyrimidine-pyrimidone lesions	
+WHY13	AT1G14410, AT2G02740	plant-specific ssDNA-binding proteins	
+WHY2	AT1G71260	blocks microhomology-mediated end joining	
